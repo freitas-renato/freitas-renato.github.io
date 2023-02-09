@@ -1,0 +1,11 @@
+- name: Git
+  percentage: 70
+  color: info
+
+- name: ARM Programming
+  percentage: 65
+  color: success
+
+- name: Linux
+  percentage: 60
+  color: warning

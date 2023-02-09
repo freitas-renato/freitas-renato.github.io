@@ -1,0 +1,43 @@
+- title: Embedded Systems Engineer
+  from: Sep 2019
+  to: Jan 2023
+  description: "
+    - Built and maintained server infrastructure for IoT applications on both cloud (AWS EC2 and GCP Compute Engine) and 
+    self-hosted embedded Linux boards using technologies like NGINX, Docker containers <br><br>
+    - Created IoT sensor data visualization dashboards on Grafana collecting data from self-managed InfluxDB and MySQL
+    databases <br><br>
+    - Used the QT framework to create a desktop GUI used to view and configure air flow sensor data from a medical ventilator, 
+    deployed on hospitals during the COVID-19 pandemic <br><br>
+    - Implemented pipelines for automated firmware binary builds/releases to be used by the manufacturing team on production <br><br>
+    - Optimized hardware/firmware integration testing routines by creating test jigs with automated test scripts using Python and 
+    C/C++ <br><br>
+    - Revised a legacy project, changing hardware/firmware architecture and replacing key hardware components, which led to 
+    an 80% bill-of-materials cost reduction and increased the client's profit margins <br><br>
+    - Oversaw the work of two interns that answered directly to me <br><br>
+    - Participated in technical specification process of new projects from ground up for various clients <br><br>
+  "
+
+- title: ThundeRatz Robotics Team
+  from: 2017
+  to: 2020
+  description: "Member of the ThundeRatz Robotics Team, a student-run organization that develops autonomous robots for 
+    competitions. <br><br>
+    - Won national and international competitions with autonomous robot projects – Winter Challenge, Robogames  <br>
+    - C and C++ firmware development for ARM microcontrollers and embedded Linux platforms; experience with ROS <br>
+    - Software and Firmware Team Leader (11/2018 – 10/2019) <br>
+    - People management, maintainer of the team’s cloud server on Digital Ocean, project management, and version control using Git on both GitHub and a private self-hosted Gitea server <br><br>
+    <a href=\"https://github.com/thunderatz/\"><i class='fas fa-external-link-alt'></i> Link to GitHub</a>
+  "
+
+- title: Student, University of Sao Paulo, Brazil
+  from: 2016
+  to: 2021
+  description: "BSc Electrical and Computer Engineering <br>
+    Undergraduate Thesis - Smart comfort level sensor network designed to monitor office environments
+    <br>
+    <a href=\"https://github.com/co-env/\"><i class='fas fa-external-link-alt'></i> Link to Thesis</a>
+  "
+
+
+
+
